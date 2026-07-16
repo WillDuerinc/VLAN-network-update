@@ -1,7 +1,7 @@
 # My Packet Tracer Labs
 
 ## 1. Corporate Network Design
-![Topology View](assets/improved-network.png)
+![Topology View](assets/improvednetwork.png)
 
 **Description**: A simulated enterprise network with VLANs, DHCP, and NAT.
 
